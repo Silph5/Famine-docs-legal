@@ -26,7 +26,7 @@ We do not sell or share your personal information with third parties. However, w
 
 We retain your data as long as necessary to provide Famine's services or as required by law. We will delete your information upon your request or when it is no longer needed. Use of the /unlink command will permanently delete all of your account data from the bot.
 
-Server administrators may request deletion of guild settings by contacting us with proof of guild ownership.
+Guild Administrators can use the f!deleteGuildSettings command to delete all persistently stored information related to their guild from the bot. Note that any interaction with the bot following settings deletion will create a new settings file which must be deleted again. Alternatively, Administrators may contact us with proof of guild ownership to manually remove their guild information from the bot.
 
 -Data Security-
 
@@ -43,3 +43,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 -Effective Date-
 
 This Privacy Policy is effective as of 26/11/2025 (dd/mm/yyyy).
+
