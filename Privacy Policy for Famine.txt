@@ -1,0 +1,45 @@
+	Privacy Policy For Famine
+
+This privacy Policy governs the collection, use, and sharing of personal information by Famine, a Discord bot developed by Silph5. By using Famine, you agree to the terms of this Privacy Policy.
+
+-Information We Collect-
+
+We may collect information that you provide to us through your use of the bot, such as your Discord user ID, username, guild and channel information, and message content. This information is non-persistent.
+
+Non-persistent data is processed only in memory and is not saved to any database or long-term storage.
+
+If you choose to use the /linksteam command, we will persistently store your discord user ID alongside the provided steam user ID. Use of this command is optional for use of the bot, but its capabilities may be limited. When used, this command will also access information about your steam account via the steam API for validation purposes.
+
+We also collect and store the settings information for every guild the bot is a part of.
+
+To improve performance and reduce Steam Web API usage, Famine caches certain non-personal Steam data obtained from the Steam Web API. This cached data may include game schemas, achievement definitions, and global achievement percentages. The cached data does not contain any user-specific information and is refreshed every 48 hours.
+
+-How We Use Your Information-
+
+We use your information to operate and improve Famine, including to provide support and to respond to your requests. The information stored with account linking is used solely to improve user experience with the bot.
+
+-Sharing your Information-
+
+We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal process or a request from a law enforcement agency or regulatory authority.
+
+-Data Retention-
+
+We retain your data as long as necessary to provide Famine's services or as required by law. We will delete your information upon your request or when it is no longer needed. Use of the /unlink command will permanently delete all of your account data from the bot.
+
+Server administrators may request deletion of guild settings by contacting us with proof of guild ownership.
+
+-Data Security-
+
+We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
+
+-Changes to this Policy-
+
+We may update this Privacy Policy from time to time, and we will post the updated policy on github. Your continued use of Famine after we make changes to this policy indicates your acceptance of the revised policy.
+
+-Contact Us-
+
+If you have any questions or concerns about this Privacy Policy, please contact silph5_21492 via discord.
+
+-Effective Date-
+
+This Privacy Policy is effective as of 26/11/2025 (dd/mm/yyyy).
